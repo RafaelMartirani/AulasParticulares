@@ -34,7 +34,9 @@ class _CadastroPagState extends State<CadastroPag> {
                           groupValue: grupo,
                           onChanged: (T) {
                             print(T);
-                            setState(() {});
+                            setState(() {
+                              //grupo = T;                              
+                            });
                           },
                         ),
                         Text('Débito',
