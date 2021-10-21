@@ -11,7 +11,7 @@ class CadastroPag extends StatefulWidget {
 
 class _CadastroPagState extends State<CadastroPag> {
   int grupo = 1;
-  
+
   @override
   Widget build(BuildContext context) {
     var formKey = GlobalKey<FormState>();
@@ -34,9 +34,7 @@ class _CadastroPagState extends State<CadastroPag> {
                           groupValue: grupo,
                           onChanged: (T) {
                             print(T);
-                            setState(() {
-                              //grupo = T;
-                            });
+                            setState(() {});
                           },
                         ),
                         Text('Débito',
