@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833959069528",
+    "project_id": "aulasparticularesengsoftware",
+    "storage_bucket": "aulasparticularesengsoftware.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833959069528:android:e50e3aee0396d0cb93072d",
+        "android_client_info": {
+          "package_name": "com.example.aulas_particulares"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833959069528-91qmtqsqj13mb05r3lth4dburvvma4sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMviJtoK41Mig53svcU_hHq5v1_KdSRAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833959069528-91qmtqsqj13mb05r3lth4dburvvma4sd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
