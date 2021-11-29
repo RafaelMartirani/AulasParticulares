@@ -1,3 +1,5 @@
+import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'tela_agendamento_aulas.dart';
 import 'tela_gerenciar_aula_a.dart';
