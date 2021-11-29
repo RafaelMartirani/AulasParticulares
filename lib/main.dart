@@ -20,6 +20,9 @@ import 'tela_gerenciar_cartao.dart';
 import 'tela_gerenciar_conta.dart';
 
 void main() {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp();
+  
   runApp(
     MaterialApp(
         debugShowCheckedModeBanner: false,
